@@ -1,0 +1,9 @@
+* parser.ini
+
+Parser for ini-like configuration options
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/scymtym/parser.ini.git |
+| commit  | fff717f                                       |
+| systems | parser.ini                                    |
+|---------+-----------------------------------------------|
